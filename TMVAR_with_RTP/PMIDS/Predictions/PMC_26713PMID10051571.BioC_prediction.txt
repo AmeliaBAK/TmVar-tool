@@ -1,0 +1,2 @@
+('A164V', 'Protein Mutation')
+('W265F,Y,A', 'Protein Mutation')

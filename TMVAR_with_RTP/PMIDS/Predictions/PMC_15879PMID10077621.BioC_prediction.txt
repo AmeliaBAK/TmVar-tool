@@ -1,0 +1,7 @@
+('MSH2', 'DNA Mutation')
+('Gly693', 'Protein Mutation')
+('hMSH2', 'Protein Mutation')
+('Msh2', 'Protein Mutation')
+('msh2', 'DNA Mutation')
+('Gly693 is changed to serine', 'DNA Mutation')
+('Msh6', 'Protein Mutation')

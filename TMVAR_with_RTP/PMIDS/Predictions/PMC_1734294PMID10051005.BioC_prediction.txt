@@ -1,0 +1,4 @@
+('MSH2', 'DNA Mutation')
+('MLH1', 'DNA Mutation')
+('hereditary non-polyposis cancer syndrome', 'DNA Mutation')
+('CA5', 'DNA Mutation')

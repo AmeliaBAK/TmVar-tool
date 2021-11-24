@@ -1,0 +1,4 @@
+('APO-1/Fas) receptor', 'DNA Mutation')
+('MORT1', 'DNA Mutation')
+('APO-1', 'DNA Mutation')
+('CD95', 'DNA Mutation')

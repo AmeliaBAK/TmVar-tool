@@ -1,0 +1,3 @@
+('KvLQT1', 'DNA Mutation')
+('autosomal dominant Romano-Ward (RW) syndrome', 'Protein Mutation')
+('KCNQ1', 'Protein Mutation')

@@ -1,0 +1,4 @@
+('CPP32', 'DNA Mutation')
+('p53', 'DNA Mutation')
+('Ac-DEVD-CHO', 'Protein Mutation')
+('ICH-1', 'DNA Mutation')

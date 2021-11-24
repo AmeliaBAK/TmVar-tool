@@ -1,0 +1,2 @@
+('FA-A', 'DNA Mutation')
+('FA-H', 'Protein Mutation')

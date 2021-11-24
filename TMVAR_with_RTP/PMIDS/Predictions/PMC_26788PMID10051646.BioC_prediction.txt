@@ -1,0 +1,3 @@
+('Y401X', 'Protein Mutation')
+('R282X', 'Protein Mutation')
+('OCTN2', 'Protein Mutation')

@@ -1,0 +1,2 @@
+('alpha-tropomyosin', 'DNA Mutation')
+('TPM3', 'DNA Mutation')

@@ -1,0 +1,8 @@
+('Q190X', 'Protein Mutation')
+('G146R', 'Protein Mutation')
+('G79E', 'DNA Mutation')
+('Y212C', 'Protein Mutation')
+('A277V', 'Protein Mutation')
+('R312G', 'Protein Mutation')
+('A277E', 'Protein Mutation')
+('K52X', 'Protein Mutation')

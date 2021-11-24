@@ -1,0 +1,3 @@
+('F211L', 'Protein Mutation')
+('S289L', 'Protein Mutation')
+('R172W', 'Protein Mutation')

@@ -1,0 +1,5 @@
+('Ca2+', 'DNA Mutation')
+('I4898T', 'Protein Mutation')
+('RyR1', 'DNA Mutation')
+('RYR1', 'DNA Mutation')
+('3H', 'Protein Mutation')

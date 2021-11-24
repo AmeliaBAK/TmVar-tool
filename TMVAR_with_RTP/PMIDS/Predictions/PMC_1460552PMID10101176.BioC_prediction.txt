@@ -1,0 +1,4 @@
+('melanocortin 1 receptor', 'DNA Mutation')
+('MC1R', 'Protein Mutation')
+('A942G', 'DNA Mutation')
+('skin/hair pigmentation', 'DNA Mutation')

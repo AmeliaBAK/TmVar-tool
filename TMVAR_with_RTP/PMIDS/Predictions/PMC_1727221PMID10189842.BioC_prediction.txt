@@ -1,0 +1,3 @@
+('HLA-DQA1', 'DNA Mutation')
+('CTLA-4', 'DNA Mutation')
+('position 49 A/G', 'DNA Mutation')

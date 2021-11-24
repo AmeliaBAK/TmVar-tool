@@ -1,0 +1,7 @@
+('A581 by T', 'DNA Mutation')
+('19 renal tumors', 'DNA Mutation')
+('aspartic acid at position 194 to valine', 'DNA Mutation')
+('LKB1', 'DNA Mutation')
+('Peutz-Jeghers syndrome', 'Protein Mutation')
+('A957 and G958 substitution by T', 'DNA Mutation')
+('C1257T', 'DNA Mutation')

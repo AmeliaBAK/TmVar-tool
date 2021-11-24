@@ -1,0 +1,2 @@
+('p53', 'DNA Mutation')
+('E336V p53delta30', 'Protein Mutation')

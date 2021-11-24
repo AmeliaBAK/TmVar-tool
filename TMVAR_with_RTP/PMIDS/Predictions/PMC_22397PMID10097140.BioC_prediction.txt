@@ -1,0 +1,2 @@
+('FEZ1', 'DNA Mutation')
+('Fez1', 'Protein Mutation')

@@ -1,0 +1,2 @@
+('platelet-activating factor acetylhydrolase', 'DNA Mutation')
+('V279F', 'Protein Mutation')

@@ -1,0 +1,6 @@
+('lysine 450 glutamic acid', 'DNA Mutation')
+('T9957C', 'DNA Mutation')
+('arginine 249 glutamine', 'DNA Mutation')
+('A4300G', 'DNA Mutation')
+('Arg249Gln', 'Protein Mutation')
+('Lys450Glu', 'Protein Mutation')

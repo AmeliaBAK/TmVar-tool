@@ -1,0 +1,3 @@
+('Dubin-Johnson syndrome', 'Protein Mutation')
+('MRP2', 'DNA Mutation')
+('multidrug resistance-associated protein', 'DNA Mutation')

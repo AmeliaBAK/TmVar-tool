@@ -1,0 +1,5 @@
+('alpha1A', 'DNA Mutation')
+('I1815L', 'Protein Mutation')
+('R192Q', 'Protein Mutation')
+('V714A', 'Protein Mutation')
+('T666M', 'Protein Mutation')

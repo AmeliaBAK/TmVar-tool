@@ -1,0 +1,4 @@
+('LR-axis malformations', 'DNA Mutation')
+('Lefty2', 'Protein Mutation')
+('transforming growth factor (TGF)-beta', 'DNA Mutation')
+('Lefty1', 'Protein Mutation')

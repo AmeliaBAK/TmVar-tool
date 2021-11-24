@@ -1,0 +1,6 @@
+('Y806C', 'Protein Mutation')
+('multiple endocrine neoplasia type 2B', 'DNA Mutation')
+('A883F', 'Protein Mutation')
+('M918T', 'Protein Mutation')
+('V804M', 'Protein Mutation')
+('MEN 2B', 'Protein Mutation')

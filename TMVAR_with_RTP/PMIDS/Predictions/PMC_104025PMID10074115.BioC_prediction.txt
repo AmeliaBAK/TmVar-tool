@@ -1,0 +1,2 @@
+('IFN-beta', 'DNA Mutation')
+('S36A', 'Protein Mutation')

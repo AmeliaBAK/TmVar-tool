@@ -1,0 +1,5 @@
+('p16INK4A', 'DNA Mutation')
+('CDK)4', 'DNA Mutation')
+('p16', 'DNA Mutation')
+('E119G', 'Protein Mutation')
+('CDK6', 'DNA Mutation')

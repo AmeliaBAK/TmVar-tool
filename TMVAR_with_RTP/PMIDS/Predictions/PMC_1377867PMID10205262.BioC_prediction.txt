@@ -1,0 +1,6 @@
+('A122D', 'Protein Mutation')
+('D291E', 'Protein Mutation')
+('P230T', 'Protein Mutation')
+('W60G', 'Protein Mutation')
+('homogentisate 1,2 dioxygenase', 'DNA Mutation')
+('Y62C', 'Protein Mutation')

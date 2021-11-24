@@ -1,0 +1,6 @@
+('EDM2', 'DNA Mutation')
+('EDM1 and EDM2', 'DNA Mutation')
+('COL9A1', 'DNA Mutation')
+('COL9A2', 'DNA Mutation')
+('COL9A3', 'DNA Mutation')
+('EDM1', 'DNA Mutation')

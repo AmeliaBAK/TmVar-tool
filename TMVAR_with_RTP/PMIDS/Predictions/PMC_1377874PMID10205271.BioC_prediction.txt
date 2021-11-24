@@ -1,0 +1,4 @@
+('STGD1', 'Protein Mutation')
+('STGD3', 'Protein Mutation')
+('STGD4', 'Protein Mutation')
+('STGD2', 'Protein Mutation')

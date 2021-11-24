@@ -1,0 +1,2 @@
+("Stargardt's disease", 'DNA Mutation')
+('T1428M', 'Protein Mutation')

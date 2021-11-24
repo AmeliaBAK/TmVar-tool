@@ -1,0 +1,4 @@
+('CYP1B1', 'Protein Mutation')
+('GLC3A', 'DNA Mutation')
+('E387K', 'Protein Mutation')
+('cytochrome P4501B1', 'Protein Mutation')

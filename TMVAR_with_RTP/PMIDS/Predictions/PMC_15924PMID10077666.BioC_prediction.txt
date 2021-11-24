@@ -1,0 +1,2 @@
+("Alzheimer's disease", 'DNA Mutation')
+('717V-->F', 'Protein Mutation')

@@ -1,0 +1,6 @@
+('E326K', 'Protein Mutation')
+('D140H', 'Protein Mutation')
+('L444P', 'Protein Mutation')
+('N370S', 'Protein Mutation')
+('K157Q', 'Protein Mutation')
+('E233X', 'Protein Mutation')

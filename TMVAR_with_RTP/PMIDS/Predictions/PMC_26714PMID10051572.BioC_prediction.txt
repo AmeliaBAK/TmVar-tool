@@ -1,0 +1,6 @@
+('C185A', 'DNA Mutation')
+('C110F', 'Protein Mutation')
+('C110A', 'DNA Mutation')
+('C187A', 'DNA Mutation')
+('C187Y', 'Protein Mutation')
+('C110Y', 'Protein Mutation')

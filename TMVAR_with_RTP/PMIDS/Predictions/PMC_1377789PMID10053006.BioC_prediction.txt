@@ -1,0 +1,4 @@
+('fibroblast growth factor receptor 3', 'DNA Mutation')
+('FGFR3', 'Protein Mutation')
+('A1948G', 'DNA Mutation')
+('A1949T', 'DNA Mutation')

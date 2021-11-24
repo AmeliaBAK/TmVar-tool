@@ -1,0 +1,2 @@
+('Li-Fraumeni', 'Protein Mutation')
+('Li-Fraumeni syndrome', 'Protein Mutation')

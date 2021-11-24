@@ -1,0 +1,5 @@
+('DeltaPhe508', 'Protein Mutation')
+('ATP-binding cassette transporter', 'DNA Mutation')
+('2828G-->A', 'DNA Mutation')
+('Gly863', 'Protein Mutation')
+('2588G-->C', 'DNA Mutation')

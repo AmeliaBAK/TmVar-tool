@@ -1,0 +1,4 @@
+('Q186X', 'Protein Mutation')
+('c-mpl', 'DNA Mutation')
+('499 delT', 'DNA Mutation')
+('c-Mpl', 'Protein Mutation')

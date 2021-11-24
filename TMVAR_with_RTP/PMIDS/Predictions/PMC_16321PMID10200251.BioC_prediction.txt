@@ -1,0 +1,8 @@
+('Gln170 to alanine', 'Protein Mutation')
+('Q170A', 'Protein Mutation')
+('Arg201', 'Protein Mutation')
+('R258A', 'Protein Mutation')
+('AlF4', 'DNA Mutation')
+('Arg258', 'Protein Mutation')
+('Gln170', 'Protein Mutation')
+('Glu50', 'DNA Mutation')

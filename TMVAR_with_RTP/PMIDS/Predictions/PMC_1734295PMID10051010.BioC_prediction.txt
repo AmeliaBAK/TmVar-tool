@@ -1,0 +1,6 @@
+('British 21-hydroxylase deficiency', 'DNA Mutation')
+('CYP21P', 'Protein Mutation')
+('R357W', 'Protein Mutation')
+('CYP21', 'DNA Mutation')
+('I172N', 'Protein Mutation')
+('21-hydroxylase deficiency', 'DNA Mutation')

@@ -1,0 +1,2 @@
+('C12258A', 'DNA Mutation')
+('MTTS2', 'Protein Mutation')

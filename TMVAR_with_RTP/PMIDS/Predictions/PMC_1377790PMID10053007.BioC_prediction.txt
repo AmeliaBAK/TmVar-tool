@@ -1,0 +1,2 @@
+('1436T-->C', 'DNA Mutation')
+('1435A-->T', 'DNA Mutation')

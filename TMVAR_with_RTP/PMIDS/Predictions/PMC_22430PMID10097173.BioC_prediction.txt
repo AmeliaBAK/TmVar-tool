@@ -1,0 +1,5 @@
+('HEK293', 'DNA Mutation')
+('V715M', 'Protein Mutation')
+("Alzheimer's disease", 'DNA Mutation')
+('Val-715 --> Met', 'Protein Mutation')
+('familial AD-linked betaAPP', 'Protein Mutation')

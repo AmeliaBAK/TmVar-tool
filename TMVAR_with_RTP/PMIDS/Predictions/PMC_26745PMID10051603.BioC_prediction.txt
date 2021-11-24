@@ -1,0 +1,5 @@
+('inositol 1,3,4,5-tetrakisphosphate', 'DNA Mutation')
+('phosphatidylinositol 3,4,5-trisphosphate', 'DNA Mutation')
+('G129E', 'Protein Mutation')
+("Cowden's disease", 'DNA Mutation')
+('MMAC1', 'DNA Mutation')

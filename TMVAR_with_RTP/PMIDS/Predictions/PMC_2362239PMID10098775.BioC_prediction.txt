@@ -1,0 +1,5 @@
+('BRCA2', 'DNA Mutation')
+('5382insC', 'DNA Mutation')
+('BRCA1', 'DNA Mutation')
+('6174delT', 'DNA Mutation')
+('185delAG', 'DNA Mutation')

@@ -1,0 +1,5 @@
+('connexin 32', 'DNA Mutation')
+('Charcot-Marie-Tooth disease', 'Protein Mutation')
+('CMT1', 'DNA Mutation')
+('Charcot-Marie-Tooth', 'Protein Mutation')
+('Cx32', 'DNA Mutation')

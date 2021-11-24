@@ -1,0 +1,6 @@
+('try4', 'DNA Mutation')
+('arginine to histidine substitution at residue 117', 'DNA Mutation')
+('K23R', 'Protein Mutation')
+('-28delTCC', 'DNA Mutation')
+('N29I', 'Protein Mutation')
+('D162D', 'Protein Mutation')

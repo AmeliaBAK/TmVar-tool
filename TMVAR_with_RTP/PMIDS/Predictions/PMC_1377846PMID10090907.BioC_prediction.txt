@@ -1,0 +1,2 @@
+('familial X-linked retinitis pigmentosa', 'Protein Mutation')
+('RP2', 'DNA Mutation')

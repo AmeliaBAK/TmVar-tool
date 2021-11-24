@@ -1,0 +1,2 @@
+('XNP/ATR-X', 'Protein Mutation')
+('ATR-X syndrome', 'Protein Mutation')

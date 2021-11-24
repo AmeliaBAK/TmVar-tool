@@ -1,0 +1,3 @@
+('K695R', 'Protein Mutation')
+('E148Q', 'Protein Mutation')
+('P369S', 'Protein Mutation')

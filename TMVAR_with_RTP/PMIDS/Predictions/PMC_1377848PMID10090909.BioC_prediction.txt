@@ -1,0 +1,1 @@
+('2314delG', 'DNA Mutation')

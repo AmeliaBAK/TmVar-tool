@@ -1,0 +1,4 @@
+('BRCA2', 'DNA Mutation')
+('breast-cancer', 'DNA Mutation')
+('small breast/ovarian cancer', 'DNA Mutation')
+('BRCA1', 'DNA Mutation')

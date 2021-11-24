@@ -1,0 +1,5 @@
+('interleukin-3', 'DNA Mutation')
+('STAT5A', 'DNA Mutation')
+('STAT5', 'DNA Mutation')
+('IL-3', 'DNA Mutation')
+('cyclin D1', 'Protein Mutation')
