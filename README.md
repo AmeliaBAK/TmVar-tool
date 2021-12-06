@@ -4,4 +4,4 @@ TmVar tool is a Machine learning project built-in python based on a bioinformati
 <li>S Subhikshaa
 <li>Abinaya U
 <li>Pragathi K V
-<li>Amelia B K
+<li>Amelia B A K
